@@ -1,0 +1,2 @@
+# StockPicker
+For filtering stocks.
